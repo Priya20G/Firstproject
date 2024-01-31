@@ -1,0 +1,4 @@
+Hello!
+
+
+this file should be triggered to slave node by webhook which we created and job1 should build automatically.
